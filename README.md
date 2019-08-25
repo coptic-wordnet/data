@@ -1,6 +1,6 @@
 # Data Repository for Coptic Wordnet
 
-Coptic Wordnet is a lexical database of the Coptic language. It contains nouns, verbs, adjectives, and adverbs which are grouped into sets of synonyms called synsets. The current Coptic release is based on the Sahidic dialect. 
+Coptic Wordnet is a lexical database of the Coptic language. It contains nouns, verbs, adjectives, and adverbs which are grouped into sets of synonyms called synsets. Each synset represents one underlying lexical concept. The current Coptic release is based on the Sahidic dialect. 
 
 The current size of Coptic Wordnet (release June, 2019):
 
